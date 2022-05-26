@@ -2,13 +2,14 @@
 
 # Hello World
 
-> working with linters.
+> In this project I test my understanding of the linters.
 
 
 ## Built With
 
 - HTML & CSS
 
+## Getting Started
 
 To get a local copy up and running follow these simple example steps.
 
